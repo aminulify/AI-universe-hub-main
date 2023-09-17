@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    color: rgb(40, 40, 40);
+}
+
+img {
+    height: 210px !important;
+}
+
+li {
+    font-size: 12px;
+    color: rgb(65, 65, 65);
+}
+
+.text-date {
+    font-size: 12px;
+    color: rgb(65, 65, 65);
+}
