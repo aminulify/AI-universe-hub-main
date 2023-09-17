@@ -112,7 +112,7 @@ const displayLoadDynamicApi = (data) => {
     const modalDetails = document.getElementById('view-details');
     modalDetails.innerHTML = `
     
-    <div class="relative bg-white p-14 rounded-lg grid grid-cols-1 lg:grid-cols-2 w-9/12 shadow-lg gap-5">
+    <div class="relative bg-white p-2 md:p-8 lg:p-14 rounded-lg grid grid-cols-1 lg:grid-cols-2 w-9/12 shadow-lg gap-5">
     <!-- left side -->
     <div class="bg-btnBgColor bg-opacity-10 p-6 border border-btnBgColor rounded">
     <h1 class="font-bold text-xl">${data.description}</h1>
